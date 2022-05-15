@@ -1,0 +1,2 @@
+# ReduxDummy
+Dummy redux project
